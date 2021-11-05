@@ -8,6 +8,7 @@ a {
   text-align: center;
   font-family: Helvetica;
   font-size: 28px;
+  text-decoration: none;
   color: white;
   transition: background-color 950ms linear;
 }
