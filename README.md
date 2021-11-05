@@ -10,7 +10,7 @@ Using CSS transitions, add declarations to change the background color of a butt
 
 ## Launch
 
-View the CSS transitions in action here:
+View the CSS transitions in action here: marisabrantley.github.io/css-transitions/
 
 ## Class
 *Codecademy/Pro, Front-End Engineer Path*
