@@ -13,4 +13,6 @@ Using CSS transitions, add declarations to change the background color of a butt
 View the CSS transitions in action here:
 
 ## Class
+*Codecademy/Pro, Front-End Engineer Path*
 
+CSS Transitions and Animations: CSS Transitions
