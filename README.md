@@ -4,7 +4,7 @@ CSS transitions allow us to control the timing of visual state changes of elemen
 
 ## Objective
 
-Using CSS transitions, add declarations to change the background color of a button and duration of the change.
+Using CSS transitions, add declarations to change the background color of a button with mouse hover and duration of the change.
 
 
 
